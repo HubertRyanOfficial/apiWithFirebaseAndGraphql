@@ -24,4 +24,4 @@ $ yarn install
 
 ## Good Luck
 
-Let's go, don't forget to give a star 🖖❗
+Let's go, don't forget to give a star on this project 🖖❗
