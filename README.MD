@@ -22,6 +22,8 @@ $ yarn install
 
 ```
 
+> > Important: Obviously you can also use the NPM
+
 ## Good Luck
 
 Let's go, don't forget to give a star on this project 🖖❗
