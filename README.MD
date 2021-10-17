@@ -22,7 +22,7 @@ $ yarn install
 
 ```
 
-> > Important: Obviously you can also use the NPM
+> Important: Obviously you can also use the NPM
 
 ## Good Luck
 
